@@ -1,0 +1,12 @@
+{
+  "cmake.generator": "Ninja",
+  "cmake.buildDirectory": "${workspaceFolder}/build",
+  "cmake.configureSettings": {
+    "CMAKE_EXPORT_COMPILE_COMMANDS": "ON"
+  },
+  "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+  "terminal.integrated.defaultProfile.windows": "MSYS2 UCRT64",
+  "cmake.environment": {
+    "Path": "C:\\msys64\\ucrt64\\bin"
+  }
+}
