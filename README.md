@@ -3,11 +3,11 @@
 This template is intended to be used for creating C++ CLI applications.
 The development environment is based on MSYS2 and Visual Studio Code on Windows.
 
-## Setting up development environment on Windows
+## Setting up the development environment on Windows
 
 1. Install MSYS2 from https://www.msys2.org/
 
-2. Launch MSYS2 UCRT64 shell and update (do it twice, if restart of the shell is required after first run):
+2. Launch MSYS2 UCRT64 shell and update packages (do it twice, if restart of the shell is required after the first run):
 ```shell
   pacman -Syu
 ```
